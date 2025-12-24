@@ -1,0 +1,9 @@
+#root {
+  min-height: 100vh;
+}
+
+.app-shell {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: clamp(1.5rem, 3vw, 3rem);
+}
